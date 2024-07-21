@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, me chamo Felipe ! 
 
-<!--
-**fearauju/fearauju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindo ao meu perfil GitHub 👋
 
-Here are some ideas to get you started:
+- <img loading="lazy" src="https://github.com/user-attachments/assets/96e00670-093c-4812-92ea-43e0dc61b0da" width = "15">     Sou Libriano
+- 🔭 Estou estudando programação na Alura pelo Programa One Oracle.
+- ⚡ Curiosidade: Adoro jogos, bons filmes e boa música.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Estou aprendendo
+  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= "40"/> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= "40"/>
+
+
+
+
+  
