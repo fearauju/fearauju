@@ -10,7 +10,7 @@
 
   ## Estou aprendendo
   
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width= "40"/> <img loading= "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= "40"/>
+<img loading="lazy" src="https://github.com/user-attachments/assets/fbdb6cf9-74f3-48bb-943a-29491046478c" width= "70"/> <img loading="lazy" src="https://github.com/user-attachments/assets/693db9a0-5dca-4c5c-af02-5a126900e235" width= "60"/>
 
 
 
