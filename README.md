@@ -6,7 +6,7 @@
 - 🔭 Estou estudando programação na Alura pelo Programa One Oracle.
 - ⚡ Curiosidade: Adoro jogos, bons filmes e boa música.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearauju&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearauju&theme=tokyonight)](https://github.com/fearauju/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearauju&show_icons=true&theme=tokyonight) [![Top Langs]()](https://github.com/fearauju/github-readme-stats)
 
   ## Estou aprendendo
   
